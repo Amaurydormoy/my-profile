@@ -1,0 +1,70 @@
+body {
+background-color:#e4f2df;
+color: rgb(30, 30, 30);
+}
+h1 {
+color:#697669;
+font-family:font-family: 'Montserrat Subrayada', sans-serif;
+font-weight:700;
+letter-spacing: 5px;
+font-size: 65px;
+}
+h2 {
+    color:#577BC1;
+    font-family:font-family: 'Montagu Slab', serif;
+    font-size: 26px;
+    font-weighcet: 400px
+}
+a{
+text-decoration: none;
+color:red;
+}
+a:hover {
+color:#525047 ;}
+
+/* Custom design with class*/
+
+.container {
+width: 700px;
+margin: 40px auto;
+}
+.card-white {
+  background-color:white ;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.img-circle {
+
+    border-radius: 30%;
+}
+
+.btn-blue{
+background-color:#577BC1 ;
+color: white;
+padding: 10px 15px;
+border-radius: 4px;
+}
+.btn-blue:hover{
+background-color:#697669 ;
+color: white;
+}
+
+.list-inline{
+    list-style: none;
+    padding-left: 0px;
+}
+.list-inline li {
+    display: inline;
+    padding: 0px;
+}
+
+.list-inline{
+    font-size: 30px;
+    color:#697669 ;
+}
+
+
